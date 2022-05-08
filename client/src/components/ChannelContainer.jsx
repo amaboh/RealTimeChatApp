@@ -2,7 +2,9 @@ import React from 'react'
 
 const ChannelContainer = () => {
   return (
-    <div>ChannelContainer</div>
+    <div className="channel__container">
+      ChannelContainer
+    </div>
   )
 }
 
